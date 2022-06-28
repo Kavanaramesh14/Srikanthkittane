@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "git final testing"
 echo "this is git testing with kavana"
 echo "this is srikanth"
 echo "enter the number to find"
