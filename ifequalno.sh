@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is srikanth"
 echo "enter the number"
 read a 
 if [ $a -eq 5 ]
