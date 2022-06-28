@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is srikanth"
 echo "enter the number to find"
 read num 
 result=0
