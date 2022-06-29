@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is srikanth"
 echo "enter the first value"
 read a 
 echo "enter the second value"
