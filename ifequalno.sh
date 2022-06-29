@@ -1,4 +1,5 @@
 #!/bin/bash
+ls 
 echo "this is srikanth"
 echo "this is hassan"
 echo "enter the number"
